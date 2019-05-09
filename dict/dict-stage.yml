@@ -1,0 +1,5 @@
+dict:
+  profile: stage
+  said:
+    first: Hello
+    second: World

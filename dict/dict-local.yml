@@ -1,0 +1,5 @@
+dict:
+    profile: local
+    said:
+        first: Hello
+        second: World
